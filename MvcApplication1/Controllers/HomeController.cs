@@ -17,7 +17,8 @@ namespace MvcApplication1.Controllers
             string nullString = null;
             long langeId = 5983475934;
             string test2 = "NEIN, TUE ES NICHT!";
-            string test3 = "Git kann halt auch nicht alles"; 
+            string test3 = "Git kann halt auch nicht alles";
+            string test4 = "Nur für den Featurebranch";
             return View();
         }
 
