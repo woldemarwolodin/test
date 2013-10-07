@@ -19,6 +19,7 @@ namespace MvcApplication1.Controllers
             string test2 = "NEIN, TUE ES NICHT!";
             string test3 = "Git kann halt auch nicht alles";
             string test4 = "Nur für den Featurebranch";
+            string test5 = "Alter!!!";
             return View();
         }
 
