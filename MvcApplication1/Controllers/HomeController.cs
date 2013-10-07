@@ -13,7 +13,7 @@ namespace MvcApplication1.Controllers
 
         public ActionResult Index()
         {
-            string test = "Na, da hab ich mich vertan";
+            string test = "Na, da hab ich mich doch nicht vertan";
             return View();
         }
 
