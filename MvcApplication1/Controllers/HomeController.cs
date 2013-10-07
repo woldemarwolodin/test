@@ -16,7 +16,8 @@ namespace MvcApplication1.Controllers
             string test = "Na, da hab ich mich doch nicht vertan";
             string nullString = null;
             long langeId = 5983475934;
-            string test = "NEIN, TUE ES NICHT!";
+            string test2 = "NEIN, TUE ES NICHT!";
+            string test3 = "Git kann halt auch nicht alles"; 
             return View();
         }
 
