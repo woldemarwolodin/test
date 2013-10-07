@@ -13,6 +13,7 @@ namespace MvcApplication1.Controllers
 
         public ActionResult Index()
         {
+            string test = "Na, da hab ich mich doch nicht vertan";
             string nullString = null;
             long langeId = 5983475934;
             string test = "NEIN, TUE ES NICHT!";
